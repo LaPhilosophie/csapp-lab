@@ -13,3 +13,4 @@
 - [x] [CSAPP-lab1：Data lab](https://gls.show/p/6d79108/)
 - [x] [CSAPP-lab2：Bomb-lab](https://gls.show/p/44962f68/)
 - [x] [CSAPP-lab3：buflab](https://gls.show/p/db3828d1/)
+- [x] [CSAPP-lab4：shell lab](https://gls.show/p/d4c22a8b/)
